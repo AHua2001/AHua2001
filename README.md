@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aaron!
+- 👀 I’m interested in science, mathematics, automotive technology and mixed martial arts.
+- 🌱 I’m currently studying at the University of Sydney for a Bachelor of Commerce with majors in accounting and data science.
+- 💞️ I’m looking to collaborate on various interesting projects and analyses.
+- 📫 You can reach me through email at aaron.hua01@gmail.com.
